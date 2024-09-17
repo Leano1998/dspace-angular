@@ -1,0 +1,8 @@
+{
+  // DSpace default: "All of DSpace"
+  // "repository.title.prefix": "DSpace Angular :: ",
+  "repository.title.prefix": "Uni Marburg :: ",
+
+  // "repository.title.prefixDSpace": "DSpace Angular ::",
+  "repository.title.prefixDSpace": "Uni Marburg ::"
+}
