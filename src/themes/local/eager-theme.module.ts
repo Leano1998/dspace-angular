@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 
 import { RootModule } from '../../app/root.module';
+import { HomeNewsComponent } from './app/home-page/home-news/home-news.component';
 
 /**
  * Add components that use a custom decorator to ENTRY_COMPONENTS as well as DECLARATIONS.
@@ -10,6 +11,7 @@ import { RootModule } from '../../app/root.module';
 const ENTRY_COMPONENTS = [];
 
 const DECLARATIONS = [
+  HomeNewsComponent,
   ...ENTRY_COMPONENTS,
 ];
 
